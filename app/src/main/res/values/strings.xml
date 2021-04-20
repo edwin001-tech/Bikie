@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bikie</string>
+    <string name="user_name">User name</string>
+    <string name="sign_in_with_google">Continue with Google</string>
+    <string name="create_account">Create account</string>
+    <string name="email_address">Email address</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="sign_to_continue">Sign to continue</string>
+    <string name="already_have_an_account_sign_in_here">already have an account? Sign In here</string>
+    <string name="continue_with_google">Continue with Google</string>
+</resources>
