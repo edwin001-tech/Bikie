@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "256956380880",
+    "project_id": "bikie-60296",
+    "storage_bucket": "bikie-60296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256956380880:android:ea9ea7469ff0b9c913d0d5",
+        "android_client_info": {
+          "package_name": "com.example.bikie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256956380880-4omonsoah90ear7mdjauc0n4arg20t7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWv_aAPuluJzH9B8p2u_4TUYwEdWRrPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256956380880-4omonsoah90ear7mdjauc0n4arg20t7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
